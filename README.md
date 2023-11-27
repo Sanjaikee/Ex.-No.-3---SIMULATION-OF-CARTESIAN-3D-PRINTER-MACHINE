@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE:27/11/2023 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -61,8 +61,8 @@
 ## Output:
 ![output](/Screenshot%202023-11-22%20081508.png)
 
-### Name: SUNIL KUMAR T 
-### Register Number: 23001650
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
