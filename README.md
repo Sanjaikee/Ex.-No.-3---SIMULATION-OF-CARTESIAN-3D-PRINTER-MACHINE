@@ -61,8 +61,8 @@
 ## Output:
 ![output](/Screenshot%202023-11-22%20081508.png)
 
-### Name: sanjai s
-### Register Number: 23003393
+### Name: SUNIL KUMAR T 
+### Register Number: 23001650
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
